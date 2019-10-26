@@ -2,7 +2,7 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 
 plugin = Plugin()
-url1 = "https://dissonancepod.com/feed/podcast/"
+url1 = "https://dissonancepod.libsyn.com/rss"
 @plugin.route('/')
 def main_menu():
     items = [

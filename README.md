@@ -4,6 +4,8 @@
 
 <img src="https://dissonancepod.com/wp-content/uploads/powerpress/cd_logo_itunes.jpg"><br>
 
+Every episode we blast anyone who gets in our way. We bring critical thinking, skepticism, and irreverence to any topic that makes the news, makes it big, or makes us mad. It’s skeptical, it’s political and there is no welcome mat.<br>
+
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
 <b>^^^^ To install this addon ^^^^</b>, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
